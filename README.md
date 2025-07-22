@@ -68,7 +68,6 @@ Check out my [portfolio repository](https://github.com/Anurag20075/Portfolio) to
 
 A responsive weather application that displays 7-day and hourly forecasts using a third-party API.
 * **Tech Stack:** React, Axios, WeatherAPI
-* [🔗 View Project](https://github.com/Anurag20075/Weather-Web)
 
 ---
 
@@ -76,7 +75,6 @@ A responsive weather application that displays 7-day and hourly forecasts using 
 
 * A full-stack web app that allows users to add, view, and delete courses with a persistent backend.
 * **Tech Stack:** React, Spring Boot, MySQL
-* [🔗 View Project](https://github.com/Anurag20075/Course-App)
 
 ---
 
@@ -84,7 +82,7 @@ A responsive weather application that displays 7-day and hourly forecasts using 
 
 * A simple and clean blogging platform where users can create and manage blog posts.
 * **Tech Stack:** Spring Boot, MySQL, REST API
-* [🔗 View Project](https://github.com/Anurag20075/Blog_Project)
+
 
 ---
 
@@ -92,7 +90,7 @@ A responsive weather application that displays 7-day and hourly forecasts using 
 
 * A front-end Amazon clone with JavaScript-based cart and product functionality.
 * **Tech Stack:** HTML, CSS, JavaScript
-* [🔗 View Project](https://github.com/Anurag20075/Amazon-Clone)
+
 
 ---
 
