@@ -89,7 +89,7 @@ A visually appealing front-end clone of Amazon, featuring interactive cart and p
 
 ### 📂 Portfolio
 
-Check out my [portfolio repository](https://github.com/Anurag20075/Portfolio) to see more of my work!
+Check out my [Portfolio](portfolio-five-flame-11.vercel.app) to see more of my work!
 
 ---
 
