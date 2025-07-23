@@ -18,17 +18,72 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
-#### 📝 [Blog Website](#)
+#### 📝 Blog Website
 > A full-featured blog platform for sharing stories and ideas.  
 > *Built with Java, Spring Boot, and React.*
+
+#### 📚 [Course-App](https://github.com/Anurag20075/Course-App.git)
+> Full stack web application for managing courses.  
+> *Tech Stack*: React, Tailwind CSS, Spring Boot  
+> **Features:**
+> - CRUD functionality for courses  
+> - Course List view
+
+---
+
+### 🌈 More Projects
+
+#### 🌦️ Weather App
+A responsive weather dashboard that delivers real-time 7-day and hourly forecasts. Built with React and Axios, it integrates with WeatherAPI to provide seamless weather updates, interactive icons, and location-based searches for a smooth user experience.
+
+* **Tech Stack:** React, Axios, WeatherAPI
+* **Features:**
+  - Live weather data for any location
+  - 7-day forecast and hourly breakdown
+  - Intuitive, mobile-friendly design
+  - Dynamic icons and interactive UI
+
+---
+
+#### 📚 Course Management System
+A robust full-stack platform where users can add, view, and delete courses with persistent storage. The app uses React for the frontend and Spring Boot with MySQL for the backend, ensuring scalability and reliability.
+
+* **Tech Stack:** React, Spring Boot, MySQL
+* **Features:**
+  - Add, edit, and delete courses (CRUD)
+  - Persistent backend with MySQL database
+  - Responsive, easy-to-navigate interface
+
+---
+
+#### ✍️ Blog Application
+A clean, modern blogging platform for creating and managing blog posts. Built with Spring Boot and MySQL, it offers RESTful APIs for seamless data management and a user-friendly experience for writers.
+
+* **Tech Stack:** Spring Boot, MySQL, REST API
+* **Features:**
+  - Create, update, and delete blog posts
+  - REST API for fast, secure operations
+  - Simple UI for effortless blogging
+
+---
+
+#### 🛒 Amazon Clone
+A visually appealing front-end clone of Amazon, featuring interactive cart and product functionality. Developed using HTML, CSS, and JavaScript, it mimics e-commerce features like product listing, cart updates, and responsive layouts.
+
+* **Tech Stack:** HTML, CSS, JavaScript
+* **Features:**
+  - Product listings with dynamic search
+  - JavaScript-powered cart management
+  - Responsive design for all devices
 
 ---
 
@@ -60,49 +115,16 @@ Check out my [portfolio repository](https://github.com/Anurag20075/Portfolio) to
 
 - SpringBoot
 - Advanced React patterns
----
-
-## 🚀 Projects
-
-### 🌦️ Weather App
-
-A responsive weather application that displays 7-day and hourly forecasts using a third-party API.
-* **Tech Stack:** React, Axios, WeatherAPI
 
 ---
 
-### 📚 Course Management System
-
-* A full-stack web app that allows users to add, view, and delete courses with a persistent backend.
-* **Tech Stack:** React, Spring Boot, MySQL
-
----
-
-### ✍️ Blog Application
-
-* A simple and clean blogging platform where users can create and manage blog posts.
-* **Tech Stack:** Spring Boot, MySQL, REST API
-
-
----
-
-### 🛒 Amazon Clone
-
-* A front-end Amazon clone with JavaScript-based cart and product functionality.
-* **Tech Stack:** HTML, CSS, JavaScript
-
-
----
-
-## 📬 Let’s Connect
+### 🤝 Let’s Connect!
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-goyal-05929b317/)
 * 📧 Email: **[goyalanurag2005@gmail.com](mailto:goyalanurag2005@gmail.com)**
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anurag20075&style=for-the-badge&color=2ecc71" alt="visitor badge"/>
 </p>
----
-*“Learning by building. Building to grow.”*
-
