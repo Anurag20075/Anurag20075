@@ -1,130 +1,119 @@
-<!-- Banner or fun ASCII art -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2ECC71&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there%2C+I'm+Anurag+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+React+Enthusiast" alt="Typing SVG" />
-</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Hi%2C+I%27m+Anurag+Goyal+%F0%9F%91%8B;Full-Stack+Engineer+%7C+System+Builder;Building+Scalable+%26+AI-Powered+Applications" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anurag-goyal-05929b317/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-five-flame-11.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:goyalanurag2005@gmail.com)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👋 About Me
 
-- 🧑‍🎓 **Student** passionate about code, coffee, and all things computer science!
-- 🔥 Love building modern web apps with **Java**, **Spring Boot**, and **React**
-- 🛠️ Always tinkering with new tech and learning cool stuff
+I am a **Full-Stack Engineer** with a strong focus on building scalable systems and AI-driven products. My passion lies in crafting robust backend solutions, developing intuitive frontends, and integrating cutting-edge AI technologies to solve real-world problems. I believe in an **engineer mindset over just coding**, always striving to build systems that scale and perform efficiently.
 
----
-
-### 🚀 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ⚙️ Backend-focused developer with strong system design thinking
+- 🎨 Build fast, modern frontends with clean UX
+- 🤖 Integrate AI into real-world applications
+- 🧠 Focus on scalability, performance, and architecture
 
 ---
 
-### 🌟 Featured Projects
+## 🚀 My Vision
 
-#### 📝 Blog Website
-> A full-featured blog platform for sharing stories and ideas.  
-> *Built with Java, Spring Boot, and React.*
-
-#### 📚 [Course-App](https://github.com/Anurag20075/Course-App.git)
-> Full stack web application for managing courses.  
-> *Tech Stack*: React, Tailwind CSS, Spring Boot  
-> **Features:**
-> - CRUD functionality for courses  
-> - Course List view
+My ultimate goal is to become an engineer who builds systems used by thousands — not just projects seen by recruiters. I am continuously learning and applying new technologies to achieve this vision.
 
 ---
 
-### 🌈 More Projects
+## 🛠️ Tech Stack & Expertise
 
-#### 🌦️ Weather App
-A responsive weather dashboard that delivers real-time 7-day and hourly forecasts. Built with React and Axios, it integrates with WeatherAPI to provide seamless weather updates, interactive icons, and location-based searches for a smooth user experience.
-
-* **Tech Stack:** React, Axios, WeatherAPI
-* **Features:**
-  - Live weather data for any location
-  - 7-day forecast and hourly breakdown
-  - Intuitive, mobile-friendly design
-  - Dynamic icons and interactive UI
+| Category         | Technologies                                                              |
+| :--------------- | :------------------------------------------------------------------------ |
+| **Backend**      | Java, Spring Boot, FastAPI, REST APIs                                     |
+| **Frontend**     | React, Tailwind CSS, Framer Motion                                        |
+| **Database**     | MySQL                                                                     |
+| **AI / ML**      | Ollama, LangChain, Vector Databases, Semantic Search, LLMs, RAG Pipelines |
+| **DevOps & Tools** | Git, Postman, Vercel, Docker, CI/CD                                       |
 
 ---
 
-#### 📚 Course Management System
-A robust full-stack platform where users can add, view, and delete courses with persistent storage. The app uses React for the frontend and Spring Boot with MySQL for the backend, ensuring scalability and reliability.
+## ✨ Featured Projects
 
-* **Tech Stack:** React, Spring Boot, MySQL
-* **Features:**
-  - Add, edit, and delete courses (CRUD)
-  - Persistent backend with MySQL database
-  - Responsive, easy-to-navigate interface
+### 📚 Semantic Book Recommendation System (Major College Project)
 
----
+An AI-powered system that recommends books based on meaning, mood, and context instead of keywords. Utilizes semantic search and embeddings for intelligent discovery.
 
-#### ✍️ Blog Application
-A clean, modern blogging platform for creating and managing blog posts. Built with Spring Boot and MySQL, it offers RESTful APIs for seamless data management and a user-friendly experience for writers.
+- **Tech Stack**: FastAPI, Python, Vector DB, NLP
+- **Link**: [View on GitHub](https://github.com/Anurag20075)
 
-* **Tech Stack:** Spring Boot, MySQL, REST API
-* **Features:**
-  - Create, update, and delete blog posts
-  - REST API for fast, secure operations
-  - Simple UI for effortless blogging
+### 🎓 Course Management System
 
----
+A scalable LMS platform with REST APIs and full CRUD operations.
 
-#### 🛒 Amazon Clone
-A visually appealing front-end clone of Amazon, featuring interactive cart and product functionality. Developed using HTML, CSS, and JavaScript, it mimics e-commerce features like product listing, cart updates, and responsive layouts.
+- **Tech Stack**: Spring Boot, React, MySQL
+- **Link**: [View on GitHub](https://github.com/Anurag20075/Course-App.git)
 
-* **Tech Stack:** HTML, CSS, JavaScript
-* **Features:**
-  - Product listings with dynamic search
-  - JavaScript-powered cart management
-  - Responsive design for all devices
+### 🛒 E-commerce Platform
 
----
+A full-stack e-commerce application with product listing, cart system, and responsive UI.
 
-### 📂 Portfolio
+- **Tech Stack**: React, Spring Boot / Node, MySQL
+- **Link**: [View on GitHub](https://github.com/Anurag20075)
 
-Check out my [Portfolio](portfolio-five-flame-11.vercel.app) to see more of my work!
+### 📝 Blog Website
+
+A clean and responsive blogging platform for content publishing.
+
+- **Tech Stack**: React / Next.js, Tailwind CSS
+- **Link**: [View on GitHub](https://github.com/Anurag20075)
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag20075&show_icons=true&theme=radical" alt="Anurag's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anurag20075&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag20075&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag20075&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag20075&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
-### 🤖 Fun Facts
+<br/>
 
-- Debugging is my superpower 🦸‍♂️
-- If computers could talk, mine would say: “Give me coffee!” ☕
-- I love memes almost as much as I love coding 😁
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag20075&theme=github-dark&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Current Growth Focus
 
-- SpringBoot
-- Advanced React patterns
+I am actively deepening my expertise in:
 
----
-
-### 🤝 Let’s Connect!
-
-* 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-goyal-05929b317/)
-* 📧 Email: **[goyalanurag2005@gmail.com](mailto:goyalanurag2005@gmail.com)**
+*   🏗️ Microservices Architecture
+*   🔐 Spring Security (JWT, Auth flows)
+*   🤖 RAG Pipelines & LLM Applications
+*   ☁️ Docker & Advanced Deployment Strategies
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anurag20075&style=for-the-badge&color=2ecc71" alt="visitor badge"/>
-</p>
+## 🤝 Let’s Connect & Build
+
+I’m open to exciting opportunities, including:
+
+*   Internships
+*   Freelance projects
+*   Collaborations on innovative ideas
+
+Feel free to reach out:
+
+*   **LinkedIn**: [Anurag Goyal](https://www.linkedin.com/in/anurag-goyal-05929b317/)
+*   **Portfolio**: [My Portfolio](https://portfolio-five-flame-11.vercel.app)
+*   **Email**: [goyalanurag2005@gmail.com](mailto:goyalanurag2005@gmail.com)
+
+---
+
+⭐ If you find my work interesting, consider starring a repo!
