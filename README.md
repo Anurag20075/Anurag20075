@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I am a **Full-Stack Engineer** with a strong focus on building scalable systems and AI-driven products. My passion lies in crafting robust backend solutions, developing intuitive frontends, and integrating cutting-edge AI technologies to solve real-world problems. I believe in an **engineer mindset over just coding**, always striving to build systems that scale and perform efficiently.
+I am a **Full-Stack Developer** with a strong focus on building scalable systems and AI-driven products. My passion lies in crafting robust backend solutions, developing intuitive frontends, and integrating cutting-edge AI technologies to solve real-world problems. I believe in an **engineer mindset over just coding**, always striving to build systems that scale and perform efficiently.
 
 - ⚙️ Backend-focused developer with strong system design thinking
 - 🎨 Build fast, modern frontends with clean UX
@@ -30,15 +30,15 @@ My ultimate goal is to become an engineer who builds systems used by thousands �
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack 
 
 | Category         | Technologies                                                              |
 | :--------------- | :------------------------------------------------------------------------ |
 | **Backend**      | Java, Spring Boot, FastAPI, REST APIs                                     |
 | **Frontend**     | React, Tailwind CSS, Framer Motion                                        |
-| **Database**     | MySQL                                                                     |
+| **Database**     | MySQL  ,                                                                   |
 | **AI / ML**      | Ollama, LangChain, Vector Databases, Semantic Search, LLMs, RAG Pipelines |
-| **DevOps & Tools** | Git, Postman, Vercel, Docker, CI/CD                                       |
+| **Tools** | Git, Postman, Vercel,                                        |
 
 ---
 
